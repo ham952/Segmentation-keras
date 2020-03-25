@@ -20,7 +20,7 @@ Lastly, Unet architecture is implemnted on VGG16 as following
 FCN2 architecture in comparison with FCN8 is as following
 ![arch](./images/arch.png)
 ## Dataset
-The segmnetation data is taken from [Divam Gupta](https://drive.google.com/file/d/0B0d9ZiqAgFkiOHR1NTJhWVJMNEU/view?usp=sharing) available at [image Segmentation git](https://github.com/divamgupta/image-segmentation-keras)
+The segmnetation data is taken from [Divam Gupta](https://github.com/divamgupta/image-segmentation-keras) available at [image Segmentation git](https://drive.google.com/file/d/0B0d9ZiqAgFkiOHR1NTJhWVJMNEU/view?usp=sharing)
 
 ## Results
 
