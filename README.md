@@ -1,6 +1,5 @@
 # Segmentation-keras
- Implementation of custom FCN architecture along with base FCN and UNet Architectures in Keras
-
+ 
 This repository includes implementation of following FCN implementations for segmentation task
  ```
  1. FCN8-VGG16
