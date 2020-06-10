@@ -1,5 +1,5 @@
 # Segmentation-keras
- Implementation of FCN and UNet Architectures in Keras
+ Implementation of custom FCN architecture along with base FCN and UNet Architectures in Keras
 
 This repository includes implementation of following FCN implementations for segmentation task
  ```
@@ -29,3 +29,12 @@ The segmnetation data is taken from [Divam Gupta](https://github.com/divamgupta/
 
 ### 2. UNet Vs FCN Implementations 
 ![result](./images/result2.png)
+
+@misc{object-segmentation,
+author = {{Rafique, Hamza}},
+title = {Implemntation of object segmentation architectures using Keras},
+year = {2019},
+version = {1.0}
+address = {Air University, ISB. ham952@hotmail.com},
+url = {https://github.com/ham952/xview2-pytorch-firstrun}
+} 
