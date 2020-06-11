@@ -29,6 +29,13 @@ The segmnetation data is taken from [Divam Gupta](https://github.com/divamgupta/
 ### 2. UNet Vs FCN Implementations 
 ![result](./images/result2.png)
 
+### Conlcusion
+
+ - FCN2 is the natural extension of FCN architectures 
+ - FCN2 under current experiment settings, donot provide any better performance.
+ - Ablation studies need to ascertain the performance gaps within the FCN variants
+ - Unet architecture is the most closest implmentation of proposed FCN2 architecture
+ 
 ### Citation Details
 If you find this code useful in your research, please consider citing
 
@@ -40,12 +47,6 @@ If you find this code useful in your research, please consider citing
 	address = {Air University, ISB. ham952@hotmail.com},
 	url = {https://github.com/ham952/xview2-pytorch-firstrun}
 	} 
-### Conlcusion
-
- - FCN2 is the natural extension of FCN architectures 
- - FCN2 under current experiment settings, donot provide any better performance.
- - Ablation studies need to ascertain the performance gaps within the FCN variants
- - Unet architecture is the most closest implmentation of proposed FCN2 architecture
  
 ### ToDo
 
